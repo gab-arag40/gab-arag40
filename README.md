@@ -3,7 +3,6 @@
 - 🔭 Estudante de ADS na UNG - Guarulhos.
 - 🗓️ Tenho 20 anos.
 - 🌱 Atualmente estudando HTML, CSS, JavaScript e Java !
-- 🧑‍💼 Acesse meu LinkedIn clicando <a href="www.linkedin.com/in/gabriel-arag40">aqui</a>
 
 ## GitHub Stats
 
